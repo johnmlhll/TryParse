@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="MacBook-Pro-Code.local" name="tryparse.TryParseTest" skipped="0" tests="1" time="0.108" timestamp="2017-11-22T15:13:24">
+<testsuite errors="0" failures="0" hostname="MacBook-Pro-Code.local" name="tryparse.TryParseTest" skipped="0" tests="1" time="0.111" timestamp="2017-11-22T15:33:33">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="US" />
@@ -54,7 +54,7 @@
     <property name="copylibs.rebase" value="true" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tryparse.TryParseTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/jmulhall/MyGitHubProjectPortfolio/TryParse/build/test/results/TEST-tryparse.TryParseTest.xml crashfile=/Users/jmulhall/MyGitHubProjectPortfolio/TryParse/build/junitvmwatcher3734157237723198729.properties propsfile=/Users/jmulhall/MyGitHubProjectPortfolio/TryParse/build/junit5579317037791263620.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tryparse.TryParseTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/jmulhall/MyGitHubProjectPortfolio/TryParse/build/test/results/TEST-tryparse.TryParseTest.xml crashfile=/Users/jmulhall/MyGitHubProjectPortfolio/TryParse/build/junitvmwatcher2851448166505562616.properties propsfile=/Users/jmulhall/MyGitHubProjectPortfolio/TryParse/build/junit4433395768229077593.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="build.sysclasspath" value="ignore" />
@@ -396,7 +396,7 @@
     <property name="platform.active" value="default_platform" />
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
   </properties>
-  <testcase classname="tryparse.TryParseTest" name="testMain" time="0.004" />
+  <testcase classname="tryparse.TryParseTest" name="testMain" time="0.003" />
   <system-out><![CDATA[main
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
